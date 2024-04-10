@@ -3,7 +3,7 @@
     "contentVersion": "1.0.0.0",
     "parameters": {
         "location": {
-            "value": "uksouth"
+            "value": "westus"
         },
         "resourceGroup": {
             "value": "advancedair-uksouth-connectivity-rg"
